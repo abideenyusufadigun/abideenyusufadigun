@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Abideen Yusuf A.
 
-<!--
-**abideenyusufadigun/abideenyusufadigun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a security researcher, content creator, and aspiring tech entrepreneur.
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- Forex trading & financial education
+- Dice Nexus – Global learning hub
+- Content on nation-building & social sciences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests
+- Security and Intelligence
+- Entrepreneurship
+- Technology & innovation
+
+## 📫 Contact Me
+- Instagram: @zayadice
+- Email: abideenyusufadigun@gmail.com
